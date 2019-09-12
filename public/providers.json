@@ -1,0 +1,26 @@
+{
+  "providers": [
+    {
+      "name": "Google",
+      "url": "https://www.google.com/?q=",
+      "prefix": "/g"
+    },
+    {
+      "name": "Duck Duck Go",
+      "url": "https://duckduckgo.com/?q=",
+      "prefix": "/d"
+    },
+    { "name": "iMDB", "url": "https://www.imdb.com/find?q=", "prefix": "/i" },
+
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/search?q=",
+      "prefix": "/r"
+    },
+    {
+      "name": "Soundcloud",
+      "url": "https://soundcloud.com/search?q=",
+      "prefix": "/so"
+    }
+  ]
+}
